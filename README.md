@@ -3,4 +3,4 @@ Elevate your college cultural festival with captivating design assets created in
 link for figma 
 ////
 https://www.figma.com/file/g7oKZw27Hhw7nOiVvZt2jm/akshay?type=design&node-id=1320%3A45&mode=design&t=ORHC4EccxlCPj3JG-1
-//////
+///////
